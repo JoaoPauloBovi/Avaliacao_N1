@@ -1,4 +1,4 @@
-Avaliação N1 - ADS
+Avaliação N1 - Algoritmos e Programação
 
 Este repositório centraliza o desenvolvimento técnico e exercícios práticos realizados para a Avaliação N1 do curso de Análise e Desenvolvimento de Sistemas. O objetivo é consolidar os fundamentos de lógica e a base das linguagens estruturadas e orientadas a objetos.
 Objetivos Técnicos
@@ -24,4 +24,5 @@ Tecnologias e Ferramentas
     Ambiente de Desenvolvimento: IDE VSCode e Git para versionamento.
 
     Professor: Oswaldo Peres.
+
 
