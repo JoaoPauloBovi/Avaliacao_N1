@@ -5,7 +5,7 @@ Objetivos Técnicos
 
     Implementação de lógica de programação e algoritmos.
 
-    Estudo de sintaxe e estruturas fundamentais em Java, C e C++.
+    Estudo de sintaxe e estruturas fundamentais em C e C++.
 
     Gerenciamento de memória e manipulação de variáveis.
 
@@ -24,3 +24,4 @@ Tecnologias e Ferramentas
     Ambiente de Desenvolvimento: IDE VSCode e Git para versionamento.
 
     Professor: Oswaldo Peres.
+
