@@ -5,13 +5,18 @@ using namespace std;
 int main()
 {
 
-    double mat, port, cie, media;
+    double matematica, portugues, ciencias, media;
 
-    mat = 9.0;
-    port = 9.5;
-    cie = 8.9;
+    cout << "Nota de Matematica: " << endl;
+    cin >> matematica;
 
-    media = (mat + port + cie) / 3;
+    cout << "Nota de Portugues: " << endl;
+    cin >> portugues;
+
+    cout << "Nota de Ciencia: " << endl;
+    cin >> ciencias;
+
+    media = (matematica + portugues + ciencias) / 3;
 
     cout << "Media de Pedro: " << fixed << setprecision(2) << media << endl;
 

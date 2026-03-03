@@ -6,14 +6,19 @@ int main()
 
     double dias, horas, valorh, calculo, salario;
 
-    dias = 23;
-    horas = 8;
-    valorh = 18.75;
+    cout << "Dias trabalhados: " << endl;
+    cin >> dias;
+
+    cout << "Horas trabalhos por dia: " << endl;
+    cin >> horas;
+
+    cout << "Valor da hora trabalhada: " << endl;
+    cin >> valorh;
 
     calculo = (dias * horas);
     salario = calculo * valorh;
 
-    cout << "Ana recebera R$ " << fixed << setprecision(2) << salario <<" reais de salario" << endl;
+    cout << "Ana recebera R$ " << fixed << setprecision(2) << salario << " reais de salario" << endl;
 
     return 0;
 }

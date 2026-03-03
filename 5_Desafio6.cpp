@@ -3,8 +3,11 @@
 using namespace std;
 
 int main()
+
 {
-    int nota = 8.5;
+    int nota;
+    cout << "Nota do aluno: " << endl;
+    cin >> nota;
 
     switch (nota)
     {
