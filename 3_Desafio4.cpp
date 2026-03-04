@@ -9,7 +9,7 @@ int main()
     cout << "Dias trabalhados: " << endl;
     cin >> dias;
 
-    cout << "Horas trabalhos por dia: " << endl;
+    cout << "Horas trabalhadas por dia: " << endl;
     cin >> horas;
 
     cout << "Valor da hora trabalhada: " << endl;
