@@ -18,6 +18,7 @@ int main()
     calculo = (dias * horas);
     salario = calculo * valorh;
 
+    // setprecision para limitar o numero gerado a 2 caracteres
     cout << "Ana recebera R$ " << fixed << setprecision(2) << salario << " reais de salario" << endl;
 
     return 0;
